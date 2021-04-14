@@ -1,1 +1,1 @@
-github page for <a href=https://github.com/Kouyak>Kouyak</a>
+github page for https://github.com/Kouyak
